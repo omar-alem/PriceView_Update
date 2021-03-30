@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Magento2 module",
   "type": "magento2-module",
-  "require": {
-    "magento/framework": "*"
-  },
   "license": [
     "proprietary"
   ],
